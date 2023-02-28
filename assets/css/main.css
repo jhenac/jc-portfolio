@@ -2547,7 +2547,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 5%;
 		}
 
 			.image.left img, .image.right img {
@@ -2747,7 +2747,6 @@ input, select, textarea {
 						ul.actions:not(.fixed) li .button.icon:before {
 							margin-left: -0.5em;
 						}
-
 		}
 
 /* Table */
@@ -4109,3 +4108,7 @@ input, select, textarea {
 					}
 
 	}
+
+.skill-logo {
+    width: 100%;
+}
