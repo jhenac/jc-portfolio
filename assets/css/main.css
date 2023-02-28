@@ -2524,7 +2524,7 @@ input, select, textarea {
 			left: 0;
 			top: 0;
 			background-image: url("images/overlay.png");
-			width: 100%;
+			width: 5%;
 			height: 100%;
 			z-index: 1;
 		}
